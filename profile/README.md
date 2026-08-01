@@ -18,7 +18,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omoresearch/.github/main/assets/omo-research-home.png" alt="Omo Research — Voice, Space, Presence" />
+  <img src="https://raw.githubusercontent.com/omoresearch/.github/main/assets/omo-world-hero.jpg" alt="Omo Research — Voice, Space, Presence" />
 </p>
 
 ## What we are exploring
