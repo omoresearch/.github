@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harrythentrepreneur/omo-world/main/omo-research-site/video/omo-launch-45s/assets/omo-unbound.png" width="120" alt="Omo Research mark" />
+  <img src="https://raw.githubusercontent.com/omoresearch/.github/main/assets/omo-unbound.png" width="120" alt="Omo Research mark" />
 
   # Omo Research
 
@@ -18,7 +18,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrythentrepreneur/omo-world/main/omo-research-site/home.png" alt="Omo Research — Voice, Space, Presence" />
+  <img src="https://raw.githubusercontent.com/omoresearch/.github/main/assets/omo-research-home.png" alt="Omo Research — Voice, Space, Presence" />
 </p>
 
 ## What we are exploring
