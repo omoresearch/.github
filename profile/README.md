@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/omoresearch/.github/main/assets/omo-unbound.png" width="120" alt="Omo Research mark" />
+  <img src="https://raw.githubusercontent.com/omoresearch/.github/main/assets/omo-icon.png" width="96" alt="Omo Research mark" />
 
   # Omo Research
 
